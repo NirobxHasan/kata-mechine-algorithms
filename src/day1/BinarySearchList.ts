@@ -15,3 +15,5 @@ export default function bs_list(haystack:number[], needle: number):boolean{
     }while(lo < hi)
     return false
 }
+
+// npx jest BinarySearchList
